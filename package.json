@@ -1,0 +1,16 @@
+{
+  "name": "gini-bitcoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gini.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "2.11.0",
+    "csv-array": "0.0.22",
+    "gini": "1.1.7"
+  }
+}
