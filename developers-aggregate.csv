@@ -1,0 +1,603 @@
+label,implementation,number
+chjj,Bcoin,3881
+indutny,Bcoin,130
+boymanjor,Bcoin,9
+mnaamani,Bcoin,7
+BluSyn,Bcoin,3
+czzarr,Bcoin,3
+samlanning,Bcoin,2
+kleetus,Bcoin,2
+srsgores,Bcoin,2
+jjz,Bcoin,2
+ralphtheninja,Bcoin,2
+braydonf,Bcoin,1
+pinheadmz,Bcoin,1
+elopio,Bcoin,1
+thehobbit85,Bcoin,1
+homeopatchy,Bcoin,1
+murtyjones,Bcoin,1
+michaelfolkson,Bcoin,1
+dionyziz,Bcoin,1
+danrobinson,Bcoin,1
+coinables,Bcoin,1
+bitjson,Bcoin,1
+moodytomatoes,Bcoin,1
+mvayngrib,Bcoin,1
+mikehearn,Bitcoinj,734
+schildbach,Bitcoinj,453
+TheBlueMatt,Bitcoinj,218
+devrandom,Bitcoinj,51
+devrandom1,Bitcoinj,48
+rnicoll,Bitcoinj,33
+troggy,Bitcoinj,32
+oscarguindzberg,Bitcoinj,28
+amichair,Bitcoinj,18
+10qertoip,Bitcoinj,16
+C-Otto,Bitcoinj,15
+w-shackleton,Bitcoinj,13
+wlk,Bitcoinj,10
+kparmar1,Bitcoinj,9
+cyberzac,Bitcoinj,9
+ksedgwic,Bitcoinj,7
+kmels,Bitcoinj,7
+jarlfr,Bitcoinj,7
+erasmospunk,Bitcoinj,7
+peterdettman,Bitcoinj,6
+jlopp,Bitcoinj,6
+jim618,Bitcoinj,4
+fofanov,Bitcoinj,4
+kirill-vlasov,Bitcoinj,4
+mruddy,Bitcoinj,4
+mrosseel,Bitcoinj,3
+ragmondo,Bitcoinj,3
+natzei,Bitcoinj,3
+dexX7,Bitcoinj,2
+eztierney,Bitcoinj,2
+prusnak,Bitcoinj,2
+gezero,Bitcoinj,2
+gary-rowe,Bitcoinj,2
+bumi,Bitcoinj,2
+eleetas,Bitcoinj,2
+wardialer,Bitcoinj,2
+jgriffiths,Bitcoinj,2
+dcw312,Bitcoinj,2
+jdojff,Bitcoinj,2
+ollekullberg,Bitcoinj,2
+davecgh,Bitcoinj,2
+cpacia,Bitcoinj,2
+StephenLReed,Bitcoinj,2
+p-,Bitcoinj,2
+ManfredKarrer,Bitcoinj,2
+msgilligan,Bitcoinj,1
+posita,Bitcoinj,1
+xenog,Bitcoinj,1
+titeuf87,Bitcoinj,1
+alolis,Bitcoinj,1
+mmazi,Bitcoinj,1
+gubatron,Bitcoinj,1
+simondlr,Bitcoinj,1
+kgreenek,Bitcoinj,1
+petertodd,Bitcoinj,1
+dbasch,Bitcoinj,1
+haraldh,Bitcoinj,1
+edrevo,Bitcoinj,1
+voisine,Bitcoinj,1
+negedzuregal,Bitcoinj,1
+zhouer,Bitcoinj,1
+bitbandi,Bitcoinj,1
+haxwell,Bitcoinj,1
+fireduck64,Bitcoinj,1
+marctrem,Bitcoinj,1
+langerhans,Bitcoinj,1
+illuzen,Bitcoinj,1
+andrewtoth,Bitcoinj,1
+kushti,Bitcoinj,1
+greenaddress,Bitcoinj,1
+Gaff,Bitcoinj,1
+johnygeorge,Bitcoinj,1
+greglaun,Bitcoinj,1
+ewiner,Bitcoinj,1
+jonathancross,Bitcoinj,1
+ScripterRon,Bitcoinj,1
+dwhjames,Bitcoinj,1
+javgh,Bitcoinj,1
+thokon00,Bitcoinj,1
+saulbein,Bitcoinj,1
+Gitju,Bitcoinj,1
+davecgh,BTCD,1,450
+dajohi,BTCD,303
+jrick,BTCD,206
+jcvernaleo,BTCD,93
+Roasbeef,BTCD,49
+drahn,BTCD,44
+tuxcanfly,BTCD,28
+flammit,BTCD,23
+jongillham,BTCD,20
+owainga,BTCD,16
+aakselrod,BTCD,12
+stevenroose,BTCD,10
+jimmysong,BTCD,10
+wallclockbuilder,BTCD,9
+tsenart,BTCD,9
+Dirbaio,BTCD,7
+kargakis,BTCD,6
+tb00,BTCD,4
+dskloetg,BTCD,4
+DanielKrawisz,BTCD,3
+toddfries,BTCD,3
+alexbosworth,BTCD,3
+marcopeereboom,BTCD,2
+dan-da,BTCD,2
+verokarhu,BTCD,2
+gsalgado,BTCD,2
+ishbir,BTCD,2
+chris-martin,BTCD,2
+mischief,BTCD,1
+rvelhote,BTCD,1
+halseth,BTCD,1
+esemplastic,BTCD,1
+cpacia,BTCD,1
+dskloet,BTCD,1
+jadeblaquiere,BTCD,1
+ysangkok,BTCD,1
+waldyrious,BTCD,1
+hectorj,BTCD,1
+ngCr3at1on,BTCD,1
+Kefkius,BTCD,1
+shphrd,BTCD,1
+jzbz,BTCD,1
+mvdan,BTCD,1
+runeaune,BTCD,1
+justusranvier,BTCD,1
+lologarithm,BTCD,1
+drazisil,BTCD,1
+bclermont,BTCD,1
+federicobond,BTCD,1
+oleganza,BTCD,1
+fanquake,BTCD,1
+evansuva,BTCD,1
+beldur,BTCD,1
+benhc123,BTCD,1
+ortutay,BTCD,1
+yrashk,BTCD,1
+carryforward,BTCD,1
+turboroot,BTCD,1
+mdempsky,BTCD,1
+Wladimir J. van der Laan,Core(bitcoin.team),1098
+Pieter Wuille,Core(bitcoin.team),854
+Philip Kaufmann,Core(bitcoin.team),542
+Gavin Andresen,Core(bitcoin.team),392
+Matt Corallo,Core(bitcoin.team),386
+Jonas Schnelli,Core(bitcoin.team),335
+Cory Fields,Core(bitcoin.team),246
+MarcoFalke,Core(bitcoin.team),230
+Luke Dashjr,Core(bitcoin.team),222
+s_nakamoto,Core(bitcoin.team),213
+Jeff Garzik,Core(bitcoin.team),208
+Alex Morcos,Core(bitcoin.team),190
+Suhas Daftuar,Core(bitcoin.team),170
+John Newbery,Core(bitcoin.team),148
+Gregory Maxwell,Core(bitcoin.team),142
+Russell Yanofsky,Core(bitcoin.team),92
+Peter Todd,Core(bitcoin.team),79
+Pavel Janík,Core(bitcoin.team),76
+Jorge Timón,Core(bitcoin.team),74
+jtimon,Core(bitcoin.team),72
+practicalswift,Core(bitcoin.team),72
+Cozz Lovan,Core(bitcoin.team),67
+Patrick Strateman,Core(bitcoin.team),48
+Michael Ford,Core(bitcoin.team),33
+R E Broadley,Core(bitcoin.team),32
+Eric Lombrozo,Core(bitcoin.team),31
+Daniel Kraft,Core(bitcoin.team),29
+Giel van Schijndel,Core(bitcoin.team),29
+Jeremy Rubin,Core(bitcoin.team),28
+Satoshi Nakamoto,Core(bitcoin.team),24
+instagibbs,Core(bitcoin.team),23
+Gregory Sanders,Core(bitcoin.team),21
+Karl-Johan Alm,Core(bitcoin.team),21
+Andrew Chow,Core(bitcoin.team),20
+BtcDrak,Core(bitcoin.team),20
+Chris Moore,Core(bitcoin.team),19
+gavinandresen,Core(bitcoin.team),18
+Johnson Lau,Core(bitcoin.team),17
+NicolasDorier,Core(bitcoin.team),17
+Patick Strateman,Core(bitcoin.team),17
+Tom Harding,Core(bitcoin.team),17
+JaSK,Core(bitcoin.team),16
+sirius-m,Core(bitcoin.team),16
+Kamil Domanski,Core(bitcoin.team),15
+Kaz Wesley,Core(bitcoin.team),15
+fanquake,Core(bitcoin.team),15
+mrbandrews,Core(bitcoin.team),15
+Casey Rodarmor,Core(bitcoin.team),14
+Jimmy Song,Core(bitcoin.team),14
+ENikS,Core(bitcoin.team),13
+dexX7,Core(bitcoin.team),13
+Mark Friedenbach,Core(bitcoin.team),12
+xanatos,Core(bitcoin.team),12
+2.10E+15,Core(bitcoin.team),11
+João Barbosa,Core(bitcoin.team),11
+Mike Hearn,Core(bitcoin.team),11
+Nils Schneider,Core(bitcoin.team),11
+tcatm,Core(bitcoin.team),11
+Daniel Cousens,Core(bitcoin.team),10
+jnewbery,Core(bitcoin.team),10
+mruddy,Core(bitcoin.team),10
+Pavel Vasin,Core(bitcoin.team),9
+Ricardo M. Correia,Core(bitcoin.team),9
+paveljanik,Core(bitcoin.team),9
+Forrest Voight,Core(bitcoin.team),8
+James O'Beirne,Core(bitcoin.team),8
+Jordan Lewis,Core(bitcoin.team),8
+Marko Bencun,Core(bitcoin.team),8
+Warren Togami,Core(bitcoin.team),8
+Adam Weiss,Core(bitcoin.team),7
+Ross Nicoll,Core(bitcoin.team),7
+whythat,Core(bitcoin.team),7
+Ashley Holman,Core(bitcoin.team),6
+Bob McElrath,Core(bitcoin.team),6
+Jack Grigg,Core(bitcoin.team),6
+Micha,Core(bitcoin.team),6
+Thomas Snider,Core(bitcoin.team),6
+Vegard Nossum,Core(bitcoin.team),6
+fsb4000,Core(bitcoin.team),6
+isle2983,Core(bitcoin.team),6
+sinetek,Core(bitcoin.team),6
+--author=Satoshi Nakamoto,Core(bitcoin.team),5
+Alexander Kjeldaas,Core(bitcoin.team),5
+Jameson Lopp,Core(bitcoin.team),5
+Janne Pulkkinen,Core(bitcoin.team),5
+Michael Hendricks,Core(bitcoin.team),5
+Roman Mindalev,Core(bitcoin.team),5
+sje397,Core(bitcoin.team),5
+Andrew C,Core(bitcoin.team),4
+Brandon Dahler,Core(bitcoin.team),4
+Chris,Core(bitcoin.team),4
+David Joel Schwartz,Core(bitcoin.team),4
+Han Lin Yap,Core(bitcoin.team),4
+Huang Le,Core(bitcoin.team),4
+John Maguire,Core(bitcoin.team),4
+Pedro Branco,Core(bitcoin.team),4
+Robert Backhaus,Core(bitcoin.team),4
+Roy Badami,Core(bitcoin.team),4
+UdjinM6,Core(bitcoin.team),4
+Venkatesh Srinivas,Core(bitcoin.team),4
+accraze,Core(bitcoin.team),4
+fcicq,Core(bitcoin.team),4
+freewil,Core(bitcoin.team),4
+gubatron,Core(bitcoin.team),4
+jonnynewbs,Core(bitcoin.team),4
+kjj2,Core(bitcoin.team),4
+ptschip,Core(bitcoin.team),4
+Christian von Roques,Core(bitcoin.team),3
+CryptAxe,Core(bitcoin.team),3
+Daniel Folkinshteyn,Core(bitcoin.team),3
+David Hill,Core(bitcoin.team),3
+Doug Huff,Core(bitcoin.team),3
+Eric Shaw,Core(bitcoin.team),3
+Ethan Heilman,Core(bitcoin.team),3
+EthanHeilman,Core(bitcoin.team),3
+Fordy,Core(bitcoin.team),3
+Johnathan Corgan,Core(bitcoin.team),3
+Jon Lund Steffensen,Core(bitcoin.team),3
+Josh Lehan,Core(bitcoin.team),3
+Kalle Alm,Core(bitcoin.team),3
+Manuel Araoz,Core(bitcoin.team),3
+Matthew King,Core(bitcoin.team),3
+Matthew Zipkin,Core(bitcoin.team),3
+Michael Rotarius,Core(bitcoin.team),3
+Murch,Core(bitcoin.team),3
+Pavol Rusnak,Core(bitcoin.team),3
+Ruben Dario Ponticelli,Core(bitcoin.team),3
+Rune K. Svendsen,Core(bitcoin.team),3
+Ryan Havar,Core(bitcoin.team),3
+SergioDemianLerner,Core(bitcoin.team),3
+Shaul Kfir,Core(bitcoin.team),3
+Thomas Holenstein,Core(bitcoin.team),3
+Tyler Hardin,Core(bitcoin.team),3
+Vinnie Falco,Core(bitcoin.team),3
+kazcw,Core(bitcoin.team),3
+p2k,Core(bitcoin.team),3
+theuni,Core(bitcoin.team),3
+Alex,Core(bitcoin.team),2
+Alon Muroch,Core(bitcoin.team),2
+Andreas Schildbach,Core(bitcoin.team),2
+Andrew Poelstra,Core(bitcoin.team),2
+Andrey,Core(bitcoin.team),2
+Benedict Chan,Core(bitcoin.team),2
+Carlo Alberto Ferraris,Core(bitcoin.team),2
+Celil,Core(bitcoin.team),2
+Chris Howie,Core(bitcoin.team),2
+Christian Decker,Core(bitcoin.team),2
+Clark Gaebel,Core(bitcoin.team),2
+Daniel Larimer,Core(bitcoin.team),2
+David FRANCOIS,Core(bitcoin.team),2
+David Perry,Core(bitcoin.team),2
+Doug,Core(bitcoin.team),2
+Douglas Roark,Core(bitcoin.team),2
+Dwayne C. Litzenberger,Core(bitcoin.team),2
+Dylan Noblesmith,Core(bitcoin.team),2
+Eric R. Schulz,Core(bitcoin.team),2
+Federico Bond,Core(bitcoin.team),2
+Flavien Charlon,Core(bitcoin.team),2
+Hampus Sjöberg,Core(bitcoin.team),2
+Ian Kelling,Core(bitcoin.team),2
+James Evans,Core(bitcoin.team),2
+Jiaxing Wang,Core(bitcoin.team),2
+Joao Fonseca,Core(bitcoin.team),2
+JoelKatz,Core(bitcoin.team),2
+Jonas Nick,Core(bitcoin.team),2
+Kangmo,Core(bitcoin.team),2
+Lauda,Core(bitcoin.team),2
+Luca Venturini,Core(bitcoin.team),2
+Mario Dian,Core(bitcoin.team),2
+Marius Hanne,Core(bitcoin.team),2
+Michagogo,Core(bitcoin.team),2
+Mitchell Cash,Core(bitcoin.team),2
+Mustafa,Core(bitcoin.team),2
+Nicolas Benoit,Core(bitcoin.team),2
+Pavlos Antoniou,Core(bitcoin.team),2
+Richard Schwab,Core(bitcoin.team),2
+Rusty Russell,Core(bitcoin.team),2
+Scott Ellis,Core(bitcoin.team),2
+Spencer Lievens,Core(bitcoin.team),2
+Stéphane Gimenez,Core(bitcoin.team),2
+Thomas Kerin,Core(bitcoin.team),2
+Thomas Zander,Core(bitcoin.team),2
+Timothy Redaelli,Core(bitcoin.team),2
+Whit J,Core(bitcoin.team),2
+Witchspace,Core(bitcoin.team),2
+Yoichi Hirai,Core(bitcoin.team),2
+Yuri Zhykin,Core(bitcoin.team),2
+Zak Wilcox,Core(bitcoin.team),2
+aideca,Core(bitcoin.team),2
+coderrr,Core(bitcoin.team),2
+constantined,Core(bitcoin.team),2
+crowning-,Core(bitcoin.team),2
+daniel,Core(bitcoin.team),2
+ditto-b,Core(bitcoin.team),2
+face,Core(bitcoin.team),2
+imharrywu,Core(bitcoin.team),2
+kobake,Core(bitcoin.team),2
+lpescher,Core(bitcoin.team),2
+mb300sd,Core(bitcoin.team),2
+patrick s,Core(bitcoin.team),2
+phantomcircuit,Core(bitcoin.team),2
+shshshsh,Core(bitcoin.team),2
+super3,Core(bitcoin.team),2
+Abraham Jewowich,Core(bitcoin.team),1
+Addy Yeow,Core(bitcoin.team),1
+Ahmad Kazi,Core(bitcoin.team),1
+Akio Nakamura,Core(bitcoin.team),1
+AlSzacrel,Core(bitcoin.team),1
+Alex van der Peet,Core(bitcoin.team),1
+Alexander Regueiro,Core(bitcoin.team),1
+Alexey Vesnin,Core(bitcoin.team),1
+Alistair Buxton,Core(bitcoin.team),1
+Allan Doensen,Core(bitcoin.team),1
+Anditto Heristyo,Core(bitcoin.team),1
+Andrew,Core(bitcoin.team),1
+Andrey Alekseenko,Core(bitcoin.team),1
+Andriy Voskoboinyk,Core(bitcoin.team),1
+Andy Alness,Core(bitcoin.team),1
+Arne Brutschy,Core(bitcoin.team),1
+Awemany,Core(bitcoin.team),1
+Bardi Harborow,Core(bitcoin.team),1
+BitcoinPRReadingGroup,Core(bitcoin.team),1
+Brian Deery,Core(bitcoin.team),1
+Bryan Bishop,Core(bitcoin.team),1
+Chirag Davé,Core(bitcoin.team),1
+Chris Arnesen,Core(bitcoin.team),1
+Chris Stewart,Core(bitcoin.team),1
+Chris Wheeler,Core(bitcoin.team),1
+Christian Barcenas,Core(bitcoin.team),1
+Chuck,Core(bitcoin.team),1
+Clinton Christian,Core(bitcoin.team),1
+Corinne Dashjr,Core(bitcoin.team),1
+Dagur Valberg Johannsson,Core(bitcoin.team),1
+Daira Hopwood,Core(bitcoin.team),1
+Dan Helfman,Core(bitcoin.team),1
+Daniel Holbert,Core(bitcoin.team),1
+Daniel Newton,Core(bitcoin.team),1
+David A. Harding,Core(bitcoin.team),1
+David Griffith,Core(bitcoin.team),1
+David Grogan,Core(bitcoin.team),1
+David Serrano,Core(bitcoin.team),1
+Denis Lukianov,Core(bitcoin.team),1
+Derek Miller,Core(bitcoin.team),1
+Derek701,Core(bitcoin.team),1
+Diego Viola,Core(bitcoin.team),1
+Dimitris Tsapakidis,Core(bitcoin.team),1
+Douglas Huff,Core(bitcoin.team),1
+Drak,Core(bitcoin.team),1
+Earlz,Core(bitcoin.team),1
+Elias Rohrer,Core(bitcoin.team),1
+Elliot Olds,Core(bitcoin.team),1
+Eric S. Bullington,Core(bitcoin.team),1
+Eric Shaw Jr,Core(bitcoin.team),1
+Eric Swanson,Core(bitcoin.team),1
+Everett Forth,Core(bitcoin.team),1
+Fabian H jr.,Core(bitcoin.team),1
+Fabian Raetz,Core(bitcoin.team),1
+Francesco 'makevoid' Canessa,Core(bitcoin.team),1
+Geoffrey Tsui,Core(bitcoin.team),1
+Glenn Willen,Core(bitcoin.team),1
+Greg Griffith,Core(bitcoin.team),1
+Greg Walker,Core(bitcoin.team),1
+Haakon Nilsen,Core(bitcoin.team),1
+HarryWu,Core(bitcoin.team),1
+Heath,Core(bitcoin.team),1
+Hector Jusforgues,Core(bitcoin.team),1
+Ian T,Core(bitcoin.team),1
+Isidoro Ghezzi,Core(bitcoin.team),1
+Ivan Pustogarov,Core(bitcoin.team),1
+Ivo van der Sangen,Core(bitcoin.team),1
+J Ross Nicoll,Core(bitcoin.team),1
+James Burkle,Core(bitcoin.team),1
+Joel Kaartinen,Core(bitcoin.team),1
+Joerie de Gram,Core(bitcoin.team),1
+Johannes Henninger,Core(bitcoin.team),1
+Julian Haight,Core(bitcoin.team),1
+Julian Langschaedel,Core(bitcoin.team),1
+Kewde,Core(bitcoin.team),1
+Khalahan,Core(bitcoin.team),1
+Kosta Zertsekel,Core(bitcoin.team),1
+Leviathn,Core(bitcoin.team),1
+LongShao007,Core(bitcoin.team),1
+Luke,Core(bitcoin.team),1
+Luv Khemani,Core(bitcoin.team),1
+Marcel Krüger,Core(bitcoin.team),1
+Marco,Core(bitcoin.team),1
+Marcos Mayorga,Core(bitcoin.team),1
+Marijn Stollenga,Core(bitcoin.team),1
+Masahiko Hyuga,Core(bitcoin.team),1
+Mathy Vanvoorden,Core(bitcoin.team),1
+Matt,Core(bitcoin.team),1
+Matt Quinn,Core(bitcoin.team),1
+Matthew Bogosian,Core(bitcoin.team),1
+Matthew English,Core(bitcoin.team),1
+Matthias Grundmann,Core(bitcoin.team),1
+Meeh,Core(bitcoin.team),1
+Michael,Core(bitcoin.team),1
+Michael Bauer,Core(bitcoin.team),1
+Michael Goldstein,Core(bitcoin.team),1
+Mike Cassano,Core(bitcoin.team),1
+Mikerah,Core(bitcoin.team),1
+Misbakh-Soloviev Vadim A,Core(bitcoin.team),1
+Nick,Core(bitcoin.team),1
+Nick Bosma,Core(bitcoin.team),1
+Nicolas DORIER,Core(bitcoin.team),1
+Nicolas Dorier,Core(bitcoin.team),1
+Noel Tiernan,Core(bitcoin.team),1
+Olivier Langlois,Core(bitcoin.team),1
+Patrick Varilly,Core(bitcoin.team),1
+Paul Georgiou,Core(bitcoin.team),1
+Peter Josling,Core(bitcoin.team),1
+Petter Reinholdtsen,Core(bitcoin.team),1
+Prayag Verma,Core(bitcoin.team),1
+Puru,Core(bitcoin.team),1
+Rav3nPL,Core(bitcoin.team),1
+René Nyffenegger,Core(bitcoin.team),1
+Ricardo Velhote,Core(bitcoin.team),1
+Rob Van Mieghem,Core(bitcoin.team),1
+Robert McLaughlin,Core(bitcoin.team),1
+Ruben Dario Ponticeli,Core(bitcoin.team),1
+Ruben de Vries,Core(bitcoin.team),1
+Rubén Darío Ponticelli,Core(bitcoin.team),1
+Rune K Svendsen,Core(bitcoin.team),1
+Ryan Niebur,Core(bitcoin.team),1
+S. Matthew English,Core(bitcoin.team),1
+Sanjay Ghemawat,Core(bitcoin.team),1
+Sergey Kazenyuk,Core(bitcoin.team),1
+Sev,Core(bitcoin.team),1
+Shane Wegner,Core(bitcoin.team),1
+Simon Males,Core(bitcoin.team),1
+Simon de la Rouviere,Core(bitcoin.team),1
+Simone Madeo,Core(bitcoin.team),1
+Stanislas Marion,Core(bitcoin.team),1
+Stephane Glondu,Core(bitcoin.team),1
+Stephen,Core(bitcoin.team),1
+Stuart Cardall,Core(bitcoin.team),1
+Subo1978,Core(bitcoin.team),1
+Takashi Mitsuta,Core(bitcoin.team),1
+Tariq Bashir,Core(bitcoin.team),1
+Teran McKinney,Core(bitcoin.team),1
+TheLazieR Yip,Core(bitcoin.team),1
+Timothy Stranex,Core(bitcoin.team),1
+Trevin Hofmann,Core(bitcoin.team),1
+Veres Lajos,Core(bitcoin.team),1
+Victor Leschuk,Core(bitcoin.team),1
+Virgil Dupras,Core(bitcoin.team),1
+Vitalii Demianets,Core(bitcoin.team),1
+William Yager,Core(bitcoin.team),1
+Wladimir van der Laan,Core(bitcoin.team),1
+adlawren,Core(bitcoin.team),1
+antonio-fr,Core(bitcoin.team),1
+ayeowch,Core(bitcoin.team),1
+azeteki,Core(bitcoin.team),1
+b6393ce9-d324-4fe1-996b-acf82dbc3d53,Core(bitcoin.team),1
+bikinibabe,Core(bitcoin.team),1
+bitsofproof,Core(bitcoin.team),1
+calebogden,Core(bitcoin.team),1
+cardpuncher,Core(bitcoin.team),1
+charlescharles,Core(bitcoin.team),1
+coblee,Core(bitcoin.team),1
+darksh1ne,Core(bitcoin.team),1
+djpnewton,Core(bitcoin.team),1
+dllud,Core(bitcoin.team),1
+error10,Core(bitcoin.team),1
+gjs278,Core(bitcoin.team),1
+jl2012,Core(bitcoin.team),1
+jloughry,Core(bitcoin.team),1
+jmacwhyte,Core(bitcoin.team),1
+justmoon,Core(bitcoin.team),1
+kevin,Core(bitcoin.team),1
+keystrike,Core(bitcoin.team),1
+kirit93,Core(bitcoin.team),1
+kirkalx,Core(bitcoin.team),1
+langerhans,Core(bitcoin.team),1
+laszloh,Core(bitcoin.team),1
+leijurv,Core(bitcoin.team),1
+lizhi,Core(bitcoin.team),1
+maiiz,Core(bitcoin.team),1
+mark,Core(bitcoin.team),1
+matthias,Core(bitcoin.team),1
+nomnombtc,Core(bitcoin.team),1
+ntrgn,Core(bitcoin.team),1
+peryaudo,Core(bitcoin.team),1
+philsong,Core(bitcoin.team),1
+pryds,Core(bitcoin.team),1
+pstratem,Core(bitcoin.team),1
+randy-waterhouse,Core(bitcoin.team),1
+rodasmith,Core(bitcoin.team),1
+rxl,Core(bitcoin.team),1
+sandakersmann,Core(bitcoin.team),1
+sandos,Core(bitcoin.team),1
+shaolinfry,Core(bitcoin.team),1
+sje,Core(bitcoin.team),1
+svost,Core(bitcoin.team),1
+tm314159,Core(bitcoin.team),1
+tnaka,Core(bitcoin.team),1
+tucenaber,Core(bitcoin.team),1
+tulip,Core(bitcoin.team),1
+vhf / victor felder,Core(bitcoin.team),1
+wodry,Core(bitcoin.team),1
+zathras-crypto,Core(bitcoin.team),1
+ロハン ダル,Core(bitcoin.team),1
+evoskuil,Libbitcoin,2,249
+genjix,Libbitcoin,709
+pmienk,Libbitcoin,156
+swansontec,Libbitcoin,90
+thecodefactory,Libbitcoin,43
+kdomanski,Libbitcoin,36
+PabloCastellano,Libbitcoin,24
+phantomcircuit,Libbitcoin,23
+RojavaCrypto,Libbitcoin,19
+Bobalot,Libbitcoin,9
+wlbentley,Libbitcoin,5
+png85,Libbitcoin,4
+mlmikael,Libbitcoin,2
+veox,Libbitcoin,2
+shunyata,Libbitcoin,2
+shawnpringle,Libbitcoin,2
+kevinejohn,Libbitcoin,1
+alexreg,Libbitcoin,1
+bardiharborow,Libbitcoin,1
+lclc,Libbitcoin,1
+rafalkrupinski,Libbitcoin,1
+changlan,Libbitcoin,1
+atweiden,Libbitcoin,1
+benhc123,Libbitcoin,1
+jaromil,Libbitcoin,1
+omidaladini,Libbitcoin,1
+xnox,Libbitcoin,1
+debris,Parity,370
+NikVolf,Parity,254
+svyatonik,Parity,251
+General-Beck,Parity,17
+nicolasochem,Parity,4
+chritchens,Parity,2
+elopio,Parity,1
+Melvillian,Parity,1
+gavofyork,Parity,1
